@@ -38,6 +38,7 @@ html {
     "Noto Color Emoji";
   font-feature-settings: normal;
   font-variation-settings: normal;
+  scroll-behavior: smooth;
 }
 
 /* Scrollbar styles */
