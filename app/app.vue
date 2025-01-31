@@ -13,7 +13,7 @@
 @plugin "@tailwindcss/typography";
 
 body {
-  --tw-bg-opacity: 0.9;
+  --tw-bg-opacity: 1;
   background-color: rgb(26 48 87 / var(--tw-bg-opacity));
 }
 
